@@ -1,7 +1,8 @@
 # Play [Super-mario-python.exe](https://github.com/imvickykumar999/super-mario-python/blob/master/super-mario-3-mario-forever-7-03.exe)
-- super mario in
-- python and
-- pygame
+
+## Super mario in...
+- python, and
+- pygame.
 
 -------------------------------------------------
 
